@@ -4,8 +4,8 @@ Snake DS is simple clone of Snake for the Nintendo DS made with [NightFox's Lib]
 
 ## Screenshots
 
-![he's doin a loop](https://gbatemp.net/attachments/loop-gif.199759/?temp_hash=669ae2d2a889e9c698a477077ac6219a) ![a decent player](https://gbatemp.net/attachments/gif-gif.199771/?temp_hash=669ae2d2a889e9c698a477077ac6219a)
- ![a god player](https://gbatemp.net/attachments/gif-gif.199772/?temp_hash=669ae2d2a889e9c698a477077ac6219a)
+![he's doin a loop](https://gbatemp.net/attachments/loop-gif.199759/?temp_hash=669ae2d2a889e9c698a477077ac6219a) ![a decent player](https://gbatemp.net/attachments/gif-gif.199788/)
+ ![a god player](https://gbatemp.net/attachments/gif-gif.199787/)
 
 ## Background
 This game was created to be used as a reference for anyone interested in making their own DS homebrew games with NightFox's Lib. I tried to make the code as clean and well-structured as possible, but feel free to ask any questions if you need anything to be clarified. It's also a somewhat fun game on it's own with all the features you'd expect from a Snake clone, so you can grab a build [here](https://github.com/PolyMarsDev/Snake-DS/releases/) if you want to try it out :)
